@@ -1,15 +1,8 @@
 // CS 0445 Spring 2023
-// Assig1A driver program.  
+// Assig1 driver program.  
 // This program will test your MyDeque<T> class.
-// See also Assig1B.java for tests of your other Assignment 1 classes.
 
-// This program must work as is with your MyDeque<T> class.  Look carefully
-// at all of the method calls so that you create your MyDeque<T> methods 
-// correctly.  For example, note the constructor calls and the toString() 
-// method call.  The output should be identical to my sample output.  See
-// the output in Assig1A-out.txt
-
-public class Assig1A
+public class Assig1
 {
 	public static void main(String [] args)
 	{
